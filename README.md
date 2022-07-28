@@ -14,5 +14,5 @@ It will take our calculated (threedpoints, twodpoints, grayColor.shape[::-1], No
 
 Camera Matrix helps to transform 3D objects points to 2D image points and the Distortion Coefficient returns the position of the camera in the world, with the values of Rotation and Translation vectors
 
-Video explanation: (click on the image below):
+Video explanation: (click on the image below):<br>
 [![Youtube Link](https://img.youtube.com/vi/6cxVcynXIME/0.jpg)](https://youtu.be/6cxVcynXIME)
